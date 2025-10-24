@@ -17,6 +17,10 @@ Users can search for books, filter by category, and manage their favorite books.
 - CSS
 - LocalStorage
 
+## Live Demo
+
+Check out the live app here: [Mini Library Live](https://mini-kitaplik-two.vercel.app/)
+
 ## Installation
 
 1. Clone the repository:
